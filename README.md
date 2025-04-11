@@ -18,3 +18,18 @@ Different effects for each button on pressed
 
 
 Enjoy the game!
+
+
+
+
+Tasks to be done in future are :
+1) Theme Modes – Add dark mode or fun themes (retro, sci-fi).
+2) Reverse/Speed Mode – Reverse pattern or make it faster as levels increase.
+3) Multiplayer – One player creates, another copies.
+4) Custom Sounds – Let users record or choose sounds.
+5) Leaderboards – Track high scores with localStorage or Firebase.
+6) Power-ups – Add lives, slow-motion, or replay options.
+7) Visual Effects – Use cool animations or circular button layout.
+8) Scramble Mode – Buttons shuffle position after showing pattern.
+
+   
